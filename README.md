@@ -51,12 +51,6 @@
 ⣚⠂⣛⣼⡿⠋⠿⠻⠟⠻⠭⠶⠚⠁⠯⠄⠼⠿⣟⣿⣿⣿⡿⣿⠻⣯⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠹⢠⠄⠾⠛⠉⠠⠉⠙⠳⠻⣿⣿⡦⠀⠀⢻⣼⣿⣿⡿⡿⣿⣻⡹⣿⣽⢿⣛⠞⠻⠻⠿⣿⢿⣿⠿⣿⠋⡿⠛⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 
-<h2 align="center">About Me</h2>
-<div>
-👉👈 Student <br>
-🤏🤏 Frontend engineer, possibly future fullstack engineer
-</div>
-
 <h2 align="center">Techs I Use</h2>
 
 <p align="left"> 
