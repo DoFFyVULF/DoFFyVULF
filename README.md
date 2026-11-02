@@ -1,20 +1,50 @@
-## <h1 align='center'>Hello i'm Luka <img align="center" alt="fack" width="60" src="https://media.tenor.com/5scjum_BlMMAAAAi/man-face-roblox.gif"></h1>
+<!-- README.md -->
 
-<h2 align="center">Techs I Use</h2>
-
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b6/5f/0d/b65f0d91d2289c434b8d3eab4c300823.jpg" width="100%" alt="banner" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doffyvulf&show_icons=true&locale=en&layout=compact" alt="doffyvulf" /></p>
+<h1 align="center">Luka</h1>
 
+<p align="center">
+  Frontend · TypeScript · React · Next.js
+</p>
 
-<img align="right" alt="fack" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhlOTZ4Z3BybGliamhubzR6djExZGFvbTR2ZWc5eGQxZHV6dDF4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUwmTGqyX5Q0NPgAgC/giphy.gif">
+<br />
+
+<h3 align="center">Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,postgres&perline=9" alt="skills" />
+  </a>
+</p>
+
+<br />
+
+<h3 align="center">Learning</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go&perline=1" alt="learning" />
+  </a>
+</p>
+
+<br />
+
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DoFFyVULF&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoFFyVULF&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="150" alt="top languages" />
+</p>
+
+<br />
+
+<h3 align="center">Pinned Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/DoFFyVULF/PromptShelf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoFFyVULF&repo=PromptShelf&hide_border=true&theme=transparent" alt="PromptShelf" />
+  </a>
+</p>
