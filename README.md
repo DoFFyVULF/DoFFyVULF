@@ -16,8 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,postgres&perline=9" alt="skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nestjs,postgres,tauri,postman&perline=6" alt="skills" />
 </p>
 
 <br />
@@ -35,8 +34,8 @@
 <h3 align="center">Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoFFyVULF&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DoFFyVULF&layout=compact&hide_border=true&hide_title=true&theme=transparent" height="150" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DoFFyVULF&theme=github" height="160" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoFFyVULF&theme=github" height="160" alt="Top languages" />
 </p>
 
 <br />
@@ -45,6 +44,6 @@
 
 <p align="center">
   <a href="https://github.com/DoFFyVULF/PromptShelf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DoFFyVULF&repo=PromptShelf&hide_border=true&theme=transparent" alt="PromptShelf" />
+    <img src="https://img.shields.io/badge/PromptShelf-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="PromptShelf" />
   </a>
 </p>
